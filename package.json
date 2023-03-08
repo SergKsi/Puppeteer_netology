@@ -1,0 +1,19 @@
+{
+   "name": "puppeteer_netology",
+   "version": "1.0.0",
+   "description": "puppeteer_netology_test",
+   "main": ".eslintrc.js",
+   "scripts": {
+      "test": "jest"
+   },
+   "keywords": [],
+   "author": "Kosovichev S.I.",
+   "license": "ISC",
+   "devDependencies": {
+      "puppeteer": "^19.7.3"
+   },
+   "dependencies": {
+      "jest": "^29.5.0",
+      "jest-puppeteer": "^8.0.2"
+   }
+}
